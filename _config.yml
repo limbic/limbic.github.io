@@ -33,7 +33,7 @@ owner:
   disqus-shortname: 
   twitter: limbic
   facebook: jonathandavis
-  google:
+  google: limbic
     plus: limbic
     analytics: 
     verify: 
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: limbic
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: limbic
+  linkedin: jonathandavis
   instagram: #username
   lastfm: #username
   tumblr: #username
