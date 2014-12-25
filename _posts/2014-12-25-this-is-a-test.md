@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "This-is-a-test"
-modified:
-categories: 
-excerpt:
+modified: null
+categories: null
+excerpt: null
 tags: []
-image:
-  feature:
-date: 2014-12-25T19:06:37+01:00
+image: 
+  feature: null
+date: {}
+published: true
 ---
 
+No Truce here. We begin. 
+
+To be out, to be between, to be under, to be alongside. To be not to be.
