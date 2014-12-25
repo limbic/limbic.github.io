@@ -26,23 +26,23 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jonathan Davis
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Emissary of the Technium"
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: limbic
+  facebook: limbic
   google:
-    plus: #username
+    plus: limbic
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: limbic
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: limbic
   instagram: #username
   lastfm: #username
   tumblr: #username
