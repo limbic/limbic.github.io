@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This-is-a-test"
+title: This is a test
 modified: null
 categories: null
 excerpt: null
