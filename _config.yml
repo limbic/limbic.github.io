@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Jonathan Davis
 locale:           en_US
-url:              
+url:              http://limbic.github.io
 
 
 # Jekyll configuration
@@ -29,7 +29,7 @@ owner:
   name: Jonathan Davis
   avatar: bio-photo.jpg
   bio: "Emissary of the Technium"
-  email: 
+  email: limbic AT gmail DOT com
   disqus-shortname: 
   twitter: limbic
   facebook: limbic
