@@ -1,13 +1,17 @@
 ---
 layout: page
 title: About Jonathan
-tags: [about, Jonathan Davis, person]
-modified: 2014-08-08T20:53:07.573882-04:00
+tags: 
+  - about
+  - Jonathan Davis
+  - person
+modified: {}
 comments: true
-image:
-  feature: sample-image-1.jpg
+image: 
+  feature: "sample-image-1.jpg"
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: "http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/"
+published: true
 ---
 
 Jonathan is a Program Manager at Microsoft. 
@@ -15,3 +19,8 @@ Jonathan is a Program Manager at Microsoft.
 ## This blog is all about:
 
 * Me
+
+## THis blog is not about
+
+* You
+
