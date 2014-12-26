@@ -26,11 +26,3 @@ published: true
 
 Jonathan is a Program Manager at Microsoft. 
 
-## This blog is all about:
-
-* Me
-
-## THis blog is not about
-
-* You
-
